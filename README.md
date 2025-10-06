@@ -1,4 +1,4 @@
-# ACMMM'25: Cross Time Domain Intention Interaction for Conditional Trajectory Prediction
+# ACM MM'25: Cross Time Domain Intention Interaction for Conditional Trajectory Prediction
 
 Official **PyTorch** code for "Cross Time Domain Intention Interaction for Conditional Trajectory Prediction".
 
